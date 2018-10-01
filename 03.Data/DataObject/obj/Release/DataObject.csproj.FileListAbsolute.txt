@@ -1,0 +1,4 @@
+D:\LUBE\03.Data\DataObject\bin\Release\DataObject.dll
+D:\LUBE\03.Data\DataObject\bin\Release\DataObject.pdb
+D:\LUBE\03.Data\DataObject\obj\Release\DataObject.dll
+D:\LUBE\03.Data\DataObject\obj\Release\DataObject.pdb

@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[DataObject.csproj]
+SCC_Aux_Path = "\\srcpool01svr\LUBE\LUBE-COST\SourceSafe"
+SCC_Project_Name = "$/SourceCode/Startup/03.Data/DataObject", FJAAAAAA

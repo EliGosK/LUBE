@@ -1,0 +1,9 @@
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\EAP.Framework.Data.dll
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\EAP.Framework.Data.pdb
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\EAP.BusinessException.dll
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\Newtonsoft.Json.dll
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\EAP.BusinessException.pdb
+D:\LUBE\00.Framework\EAP.Framework.Data\bin\Release\Newtonsoft.Json.xml
+D:\LUBE\00.Framework\EAP.Framework.Data\obj\Release\EAP.Framework.Data.csprojResolveAssemblyReference.cache
+D:\LUBE\00.Framework\EAP.Framework.Data\obj\Release\EAP.Framework.Data.dll
+D:\LUBE\00.Framework\EAP.Framework.Data\obj\Release\EAP.Framework.Data.pdb

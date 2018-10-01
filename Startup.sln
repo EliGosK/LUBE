@@ -1,0 +1,172 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Startup", "Startup\Startup.csproj", "{80236DFD-3E73-435A-ADA7-D6F2A366880D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Framework", "00-Framework", "{684ADD62-EA6D-4476-8C56-980E156993DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAP.BusinessException", "00.Framework\EAP.Business.Exception\EAP.BusinessException.csproj", "{D8D6681D-198A-4221-B2AD-54C471D19776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAP.Framework.Data", "00.Framework\EAP.Framework.Data\EAP.Framework.Data.csproj", "{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAP.Framework.Windows", "00.Framework\EAP.Framework.Windows\EAP.Framework.Windows.csproj", "{4DC01A5C-569C-4110-B97C-E8F013E88029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Presentation", "01-Presentation", "{2C7EEEF7-F526-4328-A119-1ED3EE13B2DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-BusinessService", "02-BusinessService", "{C0393EA3-8C58-4011-A6D5-D755DC57979D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Data", "03-Data", "{155186F8-5439-41C9-ABB6-8895C151153E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "01.Presentation\Presentation.csproj", "{C21468CE-429E-4144-8153-4C1A18C6D45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessService", "02.BusinessService\BusinessService.csproj", "{4649978E-739F-47FD-84A6-8A156005E223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "03.Data\DataAccess\DataAccess.csproj", "{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObject", "03.Data\DataObject\DataObject.csproj", "{1B02B6CE-9BAD-4227-9FFC-6B4874984368}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LUBE-ACS", "LUBE-ACS\LUBE-ACS.vdproj", "{93F02808-FB7F-4214-8A38-235CA68431AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Debug|x86.Build.0 = Debug|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Release|x86.ActiveCfg = Release|Any CPU
+		{80236DFD-3E73-435A-ADA7-D6F2A366880D}.Release|x86.Build.0 = Release|Any CPU
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Debug|x86.ActiveCfg = Debug|x86
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Debug|x86.Build.0 = Debug|x86
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Release|x86.ActiveCfg = Release|x86
+		{D8D6681D-198A-4221-B2AD-54C471D19776}.Release|x86.Build.0 = Release|x86
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Debug|x86.Build.0 = Debug|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638}.Release|x86.Build.0 = Release|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Debug|x86.Build.0 = Debug|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DC01A5C-569C-4110-B97C-E8F013E88029}.Release|x86.Build.0 = Release|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Debug|x86.Build.0 = Debug|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Release|x86.ActiveCfg = Release|Any CPU
+		{C21468CE-429E-4144-8153-4C1A18C6D45B}.Release|x86.Build.0 = Release|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Debug|x86.Build.0 = Debug|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Release|x86.ActiveCfg = Release|Any CPU
+		{0B381076-4FF7-423A-ADEE-C5ADCED38A9D}.Release|x86.Build.0 = Release|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Debug|x86.Build.0 = Debug|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Release|x86.ActiveCfg = Release|Any CPU
+		{4649978E-739F-47FD-84A6-8A156005E223}.Release|x86.Build.0 = Release|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Debug|x86.Build.0 = Debug|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Release|x86.ActiveCfg = Release|Any CPU
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114}.Release|x86.Build.0 = Release|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Debug|x86.Build.0 = Debug|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Release|x86.ActiveCfg = Release|Any CPU
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368}.Release|x86.Build.0 = Release|Any CPU
+		{93F02808-FB7F-4214-8A38-235CA68431AE}.Debug|Any CPU.ActiveCfg = Debug
+		{93F02808-FB7F-4214-8A38-235CA68431AE}.Debug|x86.ActiveCfg = Debug
+		{93F02808-FB7F-4214-8A38-235CA68431AE}.Release|Any CPU.ActiveCfg = Release
+		{93F02808-FB7F-4214-8A38-235CA68431AE}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8D6681D-198A-4221-B2AD-54C471D19776} = {684ADD62-EA6D-4476-8C56-980E156993DC}
+		{0A6C4B54-FCC3-46F8-814B-9CC70D57C638} = {684ADD62-EA6D-4476-8C56-980E156993DC}
+		{4DC01A5C-569C-4110-B97C-E8F013E88029} = {684ADD62-EA6D-4476-8C56-980E156993DC}
+		{C21468CE-429E-4144-8153-4C1A18C6D45B} = {2C7EEEF7-F526-4328-A119-1ED3EE13B2DF}
+		{4649978E-739F-47FD-84A6-8A156005E223} = {C0393EA3-8C58-4011-A6D5-D755DC57979D}
+		{7F0FAC15-16D7-42A5-8D02-FB7674EF3114} = {155186F8-5439-41C9-ABB6-8895C151153E}
+		{1B02B6CE-9BAD-4227-9FFC-6B4874984368} = {155186F8-5439-41C9-ABB6-8895C151153E}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 11
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 00.Framework\\EAP.Business.Exception\\EAP.BusinessException.csproj
+		SccProjectTopLevelParentUniqueName1 = Startup.sln
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = 00.Framework\\EAP.Business.Exception\\
+		SccProjectUniqueName2 = 00.Framework\\EAP.Framework.Data\\EAP.Framework.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = Startup.sln
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = 00.Framework\\EAP.Framework.Data\\
+		SccProjectUniqueName3 = 00.Framework\\EAP.Framework.Windows\\EAP.Framework.Windows.csproj
+		SccProjectTopLevelParentUniqueName3 = Startup.sln
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = 00.Framework\\EAP.Framework.Windows\\
+		SccProjectUniqueName4 = 01.Presentation\\Presentation.csproj
+		SccProjectTopLevelParentUniqueName4 = Startup.sln
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = 01.Presentation\\
+		SccProjectUniqueName5 = 02.BusinessService\\BusinessService.csproj
+		SccProjectTopLevelParentUniqueName5 = Startup.sln
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = 02.BusinessService\\
+		SccProjectUniqueName6 = 03.Data\\DataAccess\\DataAccess.csproj
+		SccProjectTopLevelParentUniqueName6 = Startup.sln
+		SccLocalPath6 = .
+		SccProjectFilePathRelativizedFromConnection6 = 03.Data\\DataAccess\\
+		SccProjectUniqueName7 = 03.Data\\DataObject\\DataObject.csproj
+		SccProjectTopLevelParentUniqueName7 = Startup.sln
+		SccLocalPath7 = .
+		SccProjectFilePathRelativizedFromConnection7 = 03.Data\\DataObject\\
+		SccProjectUniqueName8 = Common\\Common.csproj
+		SccLocalPath8 = .
+		SccProjectFilePathRelativizedFromConnection8 = Common\\
+		SccProjectUniqueName9 = Startup\\Startup.csproj
+		SccLocalPath9 = .
+		SccProjectFilePathRelativizedFromConnection9 = Startup\\
+		SccProjectUniqueName10 = LUBE-ACS\\LUBE-ACS.vdproj
+		SccLocalPath10 = .
+		SccProjectFilePathRelativizedFromConnection10 = LUBE-ACS\\
+	EndGlobalSection
+EndGlobal

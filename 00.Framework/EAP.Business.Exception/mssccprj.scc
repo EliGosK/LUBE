@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[EAP.BusinessException.csproj]
+SCC_Aux_Path = "\\srcpool01svr\LUBE\LUBE-COST\SourceSafe"
+SCC_Project_Name = "$/SourceCode/Startup/00.Framework/EAP.Business.Exception", GAAAAAAA

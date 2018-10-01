@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C21468CE-429E-4144-8153-4C1A18C6D45B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentation</RootNamespace>
+    <AssemblyName>Presentation</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.1.0\lib\net40\EPPlus.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Admin\FrmADM010_UserMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\FrmADM030_UserGroupMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\FrmADM040_SecurityMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindDialog\FindScreenDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindDialog\FindUserDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindDialog\FindUserGroupDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LUBEFormDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LUBEFormDev.Designer.cs">
+      <DependentUpon>LUBEFormDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS110_CostTypeSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS110_CostTypeSetup.Designer.cs">
+      <DependentUpon>FrmACS110_CostTypeSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS120_AddEditCostType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS120_AddEditCostType.Designer.cs">
+      <DependentUpon>FrmACS120_AddEditCostType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS120_MappingAccountCodeAndCostType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Master\FrmACS120_MappingAccountCodeAndCostType.Designer.cs">
+      <DependentUpon>FrmACS120_MappingAccountCodeAndCostType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS310_ProcessRetrieveData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS310_ProcessRetrieveData.Designer.cs">
+      <DependentUpon>FrmACS310_ProcessRetrieveData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS320_ProcessActualCostCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS320_ProcessActualCostCalculation.Designer.cs">
+      <DependentUpon>FrmACS320_ProcessActualCostCalculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.Designer.cs">
+      <DependentUpon>FrmACS350_ProcessInventoryRevolutionImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS330_ProcessTransferData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS330_ProcessTransferData.Designer.cs">
+      <DependentUpon>FrmACS330_ProcessTransferData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS340_ProcessStandardMOHRateCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Process\FrmACS340_ProcessStandardMOHRateCalculation.Designer.cs">
+      <DependentUpon>FrmACS340_ProcessStandardMOHRateCalculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmPreviewReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmPreviewReport.designer.cs">
+      <DependentUpon>FrmPreviewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.Designer.cs">
+      <DependentUpon>FrmRPT030_CostofGoodsManufacturedReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT040_ClosingItemReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT040_ClosingItemReport.Designer.cs">
+      <DependentUpon>FrmRPT040_ClosingItemReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT050_VarianceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT050_VarianceReport.Designer.cs">
+      <DependentUpon>FrmRPT050_VarianceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT020_CostReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT020_CostReport.Designer.cs">
+      <DependentUpon>FrmRPT020_CostReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT010_ManufacturingOverheadSummaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT010_ManufacturingOverheadSummaryReport.Designer.cs">
+      <DependentUpon>FrmRPT010_ManufacturingOverheadSummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT999_ReportTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report\FrmRPT999_ReportTest.Designer.cs">
+      <DependentUpon>FrmRPT999_ReportTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\Dummy1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dummy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report\ReportSchema.cs">
+      <DependentUpon>ReportSchema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportSchema.Designer.cs">
+      <DependentUpon>ReportSchema.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Report\RPT010_MOHSummaryReport.cs">
+      <DependentUpon>RPT010_MOHSummaryReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report\RPT020_CostReport.cs">
+      <DependentUpon>RPT020_CostReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report\RPT040_ClosingItemReporty.cs">
+      <DependentUpon>RPT040_ClosingItemReporty.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report\RPT999_ReportTest.cs">
+      <DependentUpon>RPT999_ReportTest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <EmbeddedResource Include="Forms\Admin\FrmADM010_UserMaintenance.resx">
+      <DependentUpon>FrmADM010_UserMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\FrmADM030_UserGroupMaintenance.resx">
+      <DependentUpon>FrmADM030_UserGroupMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\FrmADM040_SecurityMapping.resx">
+      <DependentUpon>FrmADM040_SecurityMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FindDialog\FindUserDialog.resx">
+      <DependentUpon>FindUserDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LUBEFormDev.resx">
+      <DependentUpon>LUBEFormDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Master\FrmACS110_CostTypeSetup.resx">
+      <DependentUpon>FrmACS110_CostTypeSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Master\FrmACS120_AddEditCostType.resx">
+      <DependentUpon>FrmACS120_AddEditCostType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Master\FrmACS120_MappingAccountCodeAndCostType.resx">
+      <DependentUpon>FrmACS120_MappingAccountCodeAndCostType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Process\FrmACS310_ProcessRetrieveData.resx">
+      <DependentUpon>FrmACS310_ProcessRetrieveData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Process\FrmACS320_ProcessActualCostCalculation.resx">
+      <DependentUpon>FrmACS320_ProcessActualCostCalculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.resx">
+      <DependentUpon>FrmACS350_ProcessInventoryRevolutionImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Process\FrmACS330_ProcessTransferData.resx">
+      <DependentUpon>FrmACS330_ProcessTransferData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Process\FrmACS340_ProcessStandardMOHRateCalculation.resx">
+      <DependentUpon>FrmACS340_ProcessStandardMOHRateCalculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmPreviewReport.resx">
+      <DependentUpon>FrmPreviewReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.resx">
+      <DependentUpon>FrmRPT030_CostofGoodsManufacturedReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT040_ClosingItemReport.resx">
+      <DependentUpon>FrmRPT040_ClosingItemReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT050_VarianceReport.resx">
+      <DependentUpon>FrmRPT050_VarianceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT020_CostReport.resx">
+      <DependentUpon>FrmRPT020_CostReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT010_ManufacturingOverheadSummaryReport.resx">
+      <DependentUpon>FrmRPT010_ManufacturingOverheadSummaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report\FrmRPT999_ReportTest.resx">
+      <DependentUpon>FrmRPT999_ReportTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report\Dummy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Dummy1.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\ReportSchema.xsc">
+      <DependentUpon>ReportSchema.xsd</DependentUpon>
+    </None>
+    <None Include="Report\ReportSchema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportSchema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\ReportSchema.xss">
+      <DependentUpon>ReportSchema.xsd</DependentUpon>
+    </None>
+    <None Include="Report\RPT010_MOHSummaryReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT010_MOHSummaryReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\RPT020_CostReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT020_CostReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\RPT040_ClosingItemReporty.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT040_ClosingItemReporty.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\RPT999_ReportTest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT999_ReportTest.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\Template\RPT030_Template.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report\Template\RPT050_Template.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\02.BusinessService\BusinessService.csproj">
+      <Project>{4649978e-739f-47fd-84a6-8a156005e223}</Project>
+      <Name>BusinessService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{0b381076-4ff7-423a-adee-c5adced38a9d}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\03.Data\DataObject\DataObject.csproj">
+      <Project>{1b02b6ce-9bad-4227-9ffc-6b4874984368}</Project>
+      <Name>DataObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\00.Framework\EAP.Business.Exception\EAP.BusinessException.csproj">
+      <Project>{d8d6681d-198a-4221-b2ad-54c471d19776}</Project>
+      <Name>EAP.BusinessException</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\00.Framework\EAP.Framework.Data\EAP.Framework.Data.csproj">
+      <Project>{0a6c4b54-fcc3-46f8-814b-9cc70d57c638}</Project>
+      <Name>EAP.Framework.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\00.Framework\EAP.Framework.Windows\EAP.Framework.Windows.csproj">
+      <Project>{4dc01a5c-569c-4110-b97c-e8f013e88029}</Project>
+      <Name>EAP.Framework.Windows</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar_x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

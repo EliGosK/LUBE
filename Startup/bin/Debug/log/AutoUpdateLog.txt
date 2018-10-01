@@ -1,0 +1,4 @@
+20180619 - 12:16:26 | System | Auto Update Start Get Files
+20180619 - 12:16:26 | System | Auto Update Initial Connection to Server...
+20180619 - 12:16:27 | Query :  | \\PACHARA0S0N16\PathUpdate
+20180619 - 12:16:27 | Copy :  | test.txt

@@ -1,0 +1,5 @@
+D:\LUBE\03.Data\DataObject\bin\Debug\DataObject.dll
+D:\LUBE\03.Data\DataObject\bin\Debug\DataObject.pdb
+D:\LUBE\03.Data\DataObject\obj\Debug\DataObject.csprojResolveAssemblyReference.cache
+D:\LUBE\03.Data\DataObject\obj\Debug\DataObject.dll
+D:\LUBE\03.Data\DataObject\obj\Debug\DataObject.pdb

@@ -1,0 +1,1180 @@
+2018-05-08 17:09:21,377 INFO  [Main] - Login Success
+2018-05-08 17:11:48,961 INFO  [Main] - Login Success
+2018-05-08 17:14:50,784 INFO  [Main] - Login Success
+2018-05-08 17:15:25,307 INFO  [Main] - Login Success
+2018-05-08 17:17:14,910 INFO  [Main] - Login Success
+2018-05-08 17:18:17,817 INFO  [Main] - Login Success
+2018-05-08 17:18:53,065 INFO  [Main] - Login Success
+2018-05-08 17:20:34,821 INFO  [Main] - Login Success
+2018-05-08 17:26:20,629 INFO  [Main] - Login Success
+2018-05-08 17:27:31,335 INFO  [Main] - Login Success
+2018-05-09 10:20:46,902 INFO  [Main] - Login Success
+2018-05-09 10:42:39,804 INFO  [Main] - Login Success
+2018-05-09 10:48:42,591 INFO  [Main] - Login Success
+2018-05-09 11:00:11,663 INFO  [Main] - Login Success
+2018-05-09 11:02:34,790 INFO  [Main] - Login Success
+2018-05-09 11:03:58,044 INFO  [Main] - Login Success
+2018-05-09 11:05:44,539 INFO  [Main] - Login Success
+2018-05-09 11:06:24,519 INFO  [Main] - Login Success
+2018-05-09 11:08:03,752 INFO  [Main] - Login Success
+2018-05-09 11:17:46,515 INFO  [Main] - Login Success
+2018-05-09 11:21:30,141 INFO  [Main] - Login Success
+2018-05-09 11:32:13,058 INFO  [Main] - Login Success
+2018-05-09 11:33:01,015 INFO  [Main] - Login Success
+2018-05-09 11:44:33,822 INFO  [Main] - Login Success
+2018-05-09 11:48:54,656 INFO  [Main] - Login Success
+2018-05-09 12:01:22,733 INFO  [Main] - Login Success
+2018-05-09 12:08:11,878 INFO  [Main] - Login Success
+2018-05-09 12:09:06,808 INFO  [Main] - Login Success
+2018-05-09 12:10:47,009 INFO  [Main] - Login Success
+2018-05-09 12:11:09,279 INFO  [Main] - Login Success
+2018-05-09 12:17:09,293 INFO  [Main] - Login Success
+2018-05-09 12:24:38,286 INFO  [Main] - Login Success
+2018-05-09 13:39:23,978 INFO  [Main] - Login Success
+2018-05-09 13:40:06,553 INFO  [Main] - Login Success
+2018-05-09 13:43:22,516 INFO  [Main] - Login Success
+2018-05-09 13:49:18,851 INFO  [Main] - Login Success
+2018-05-09 14:15:39,547 INFO  [Main] - Login Success
+2018-05-09 14:26:53,277 INFO  [Main] - Login Success
+2018-05-09 14:29:57,556 INFO  [Main] - Login Success
+2018-05-09 14:30:09,732 INFO  [Main] - Login Success
+2018-05-09 14:34:41,341 INFO  [Main] - Login Success
+2018-05-09 14:46:58,793 INFO  [Main] - Login Success
+2018-05-09 14:51:01,571 INFO  [Main] - Login Success
+2018-05-09 14:56:12,963 INFO  [Main] - Login Success
+2018-05-09 14:58:03,777 INFO  [Main] - Login Success
+2018-05-09 14:58:53,590 INFO  [Main] - Login Success
+2018-05-09 15:01:44,801 INFO  [Main] - Login Success
+2018-05-09 15:03:47,213 INFO  [Main] - Login Success
+2018-05-09 15:17:01,362 INFO  [Main] - Login Success
+2018-05-09 15:21:16,160 INFO  [Main] - Login Success
+2018-05-09 15:27:06,428 INFO  [Main] - Login Success
+2018-05-09 15:27:50,700 INFO  [Main] - Login Success
+2018-05-09 15:29:31,507 INFO  [Main] - Login Success
+2018-05-09 15:36:49,740 INFO  [Main] - Login Success
+2018-05-09 15:39:06,240 INFO  [Main] - Login Success
+2018-05-09 15:40:22,723 INFO  [Main] - Login Success
+2018-05-09 15:41:27,211 INFO  [Main] - Login Success
+2018-05-09 15:42:12,020 INFO  [Main] - Login Success
+2018-05-10 11:36:31,401 INFO  [Main] - Login Success
+2018-05-10 11:38:54,031 INFO  [Main] - Login Success
+2018-05-10 11:41:44,415 INFO  [Main] - Login Success
+2018-05-10 11:42:35,247 INFO  [Main] - Login Success
+2018-05-10 11:45:13,227 INFO  [Main] - Login Success
+2018-05-10 11:51:40,714 INFO  [Main] - Login Success
+2018-05-10 11:53:19,408 INFO  [Main] - Login Success
+2018-05-10 11:58:59,933 INFO  [Main] - Login Success
+2018-05-10 12:03:16,951 INFO  [Main] - Login Success
+2018-05-10 12:06:26,592 INFO  [Main] - Login Success
+2018-05-10 12:09:48,085 INFO  [Main] - Login Success
+2018-05-10 12:11:58,516 INFO  [Main] - Login Success
+2018-05-10 12:13:58,695 INFO  [Main] - Login Success
+2018-05-10 12:16:15,923 INFO  [Main] - Login Success
+2018-05-10 12:20:30,029 INFO  [Main] - Login Success
+2018-05-10 13:47:53,649 INFO  [Main] - Login Success
+2018-05-10 13:48:31,898 INFO  [Main] - Login Success
+2018-05-10 14:19:10,668 INFO  [Main] - Login Success
+2018-05-10 14:19:26,729 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Error converting data type nvarchar to date.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteCommand(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 277
+   at DataAccess.StoreProcedure.sp_RPT020_CostReports(Database db, Int32 Year, Int32 Period, String ProdDateFrom, String ProdDateTo, String ProdOrderNoFrom, String ProdOrderNoTo) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 239
+   at BusinessService.RPT020_ReportBIZ.GetCostReports(Int32 Year, Int32 Period, String ProdDateFrom, String ProdDateTo, String ProdOrderNoFrom, String ProdOrderNoTo) in D:\LUBE\02.BusinessService\Report\RPT020_ReportBIZ.cs:line 30
+   at Presentation.Forms.Report.FrmRPT020_CostReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT020_CostReport.cs:line 105
+ClientConnectionId:e2dfa640-6f1b-493b-af63-93e94f10eb67
+Error Number:8114,State:5,Class:16
+2018-05-10 14:20:07,035 INFO  [Main] - Login Success
+2018-05-10 14:21:08,244 INFO  [Main] - Login Success
+2018-05-10 14:23:08,614 INFO  [Main] - Login Success
+2018-05-10 14:27:24,467 INFO  [Main] - Login Success
+2018-05-10 14:32:30,032 INFO  [Main] - Login Success
+2018-05-10 14:36:20,872 INFO  [Main] - Login Success
+2018-05-10 14:37:06,900 INFO  [Main] - Login Success
+2018-05-10 14:43:27,733 INFO  [Main] - Login Success
+2018-05-10 14:59:12,525 INFO  [Main] - Login Success
+2018-05-10 15:08:27,210 INFO  [Main] - Login Success
+2018-05-10 15:11:29,736 INFO  [Main] - Login Success
+2018-05-10 15:33:02,926 INFO  [Main] - Login Success
+2018-05-10 15:35:45,720 INFO  [Main] - Login Success
+2018-05-10 15:38:53,989 INFO  [Main] - Login Success
+2018-05-10 15:41:12,988 INFO  [Main] - Login Success
+2018-05-10 15:42:41,548 INFO  [Main] - Login Success
+2018-05-10 15:50:33,659 INFO  [Main] - Login Success
+2018-05-10 15:55:22,621 INFO  [Main] - Login Success
+2018-05-10 15:57:08,192 INFO  [Main] - Login Success
+2018-05-10 16:08:33,297 INFO  [Main] - Login Success
+2018-05-10 16:11:56,737 INFO  [Main] - Login Success
+2018-05-10 16:20:09,147 INFO  [Main] - Login Success
+2018-05-10 16:29:55,034 INFO  [Main] - Login Success
+2018-05-10 16:32:02,445 INFO  [Main] - Login Success
+2018-05-10 16:38:15,669 INFO  [Main] - Login Success
+2018-05-10 16:51:49,200 INFO  [Main] - Login Success
+2018-05-10 16:53:34,094 INFO  [Main] - Login Success
+2018-05-10 17:12:39,563 INFO  [Main] - Login Success
+2018-05-10 17:15:25,415 INFO  [Main] - Login Success
+2018-05-10 17:17:13,661 INFO  [Main] - Login Success
+2018-05-10 17:20:01,094 INFO  [Main] - Login Success
+2018-05-10 17:21:21,255 INFO  [Main] - Login Success
+2018-05-10 17:22:15,621 INFO  [Main] - Login Success
+2018-05-10 17:23:40,087 INFO  [Main] - Login Success
+2018-05-10 17:25:46,843 INFO  [Main] - Login Success
+2018-05-10 17:27:15,667 INFO  [Main] - Login Success
+2018-05-10 17:38:51,716 INFO  [Main] - Login Success
+2018-05-10 17:42:57,071 INFO  [Main] - Login Success
+2018-05-10 17:44:24,678 INFO  [Main] - Login Success
+2018-05-10 17:53:30,091 INFO  [Main] - Login Success
+2018-05-10 17:54:53,218 INFO  [Main] - Login Success
+2018-05-10 18:03:36,982 INFO  [Main] - Login Success
+2018-05-10 18:05:02,068 INFO  [Main] - Login Success
+2018-05-10 18:09:14,183 INFO  [Main] - Login Success
+2018-05-11 10:24:31,533 INFO  [Main] - Login Success
+2018-05-11 10:30:20,835 INFO  [Main] - Login Success
+2018-05-11 10:36:39,800 INFO  [Main] - Login Success
+2018-05-11 10:47:27,482 INFO  [Main] - Login Success
+2018-05-11 10:48:47,030 INFO  [Main] - Login Success
+2018-05-11 11:02:43,302 INFO  [Main] - Login Success
+2018-05-11 11:05:40,050 INFO  [Main] - Login Success
+2018-05-11 11:11:33,682 INFO  [Main] - Login Success
+2018-05-11 11:15:09,543 INFO  [Main] - Login Success
+2018-05-11 11:16:22,617 INFO  [Main] - Login Success
+2018-05-11 11:18:19,187 INFO  [Main] - Login Success
+2018-05-11 11:20:32,565 INFO  [Main] - Login Success
+2018-05-11 11:22:44,384 INFO  [Main] - Login Success
+2018-05-11 11:23:54,626 INFO  [Main] - Login Success
+2018-05-11 11:33:31,136 INFO  [Main] - Login Success
+2018-05-11 11:38:48,713 INFO  [Main] - Login Success
+2018-05-11 11:44:00,234 INFO  [Main] - Login Success
+2018-05-11 11:58:12,679 INFO  [Main] - Login Success
+2018-05-11 11:58:49,535 INFO  [Main] - Login Success
+2018-05-11 11:59:34,635 INFO  [Main] - Login Success
+2018-05-11 14:56:15,146 INFO  [Main] - Login Success
+2018-05-11 15:12:15,338 INFO  [Main] - Login Success
+2018-05-11 15:15:27,846 INFO  [Main] - Login Success
+2018-05-11 15:15:46,954 INFO  [Main] - Login Success
+2018-05-11 15:23:58,277 INFO  [Main] - Login Success
+2018-05-11 15:31:21,200 INFO  [Main] - Login Success
+2018-05-11 15:32:23,773 INFO  [Main] - Login Success
+2018-05-11 15:41:28,915 INFO  [Main] - Login Success
+2018-05-11 15:42:54,666 INFO  [Main] - Login Success
+2018-05-11 15:45:38,219 INFO  [Main] - Login Success
+2018-05-11 16:53:18,533 INFO  [Main] - Login Success
+2018-05-11 16:56:34,582 INFO  [Main] - Login Success
+2018-05-11 16:56:47,201 ERROR [Main] - Error
+System.IndexOutOfRangeException: Worksheet position out of range.
+   at OfficeOpenXml.ExcelWorksheets.get_Item(Int32 PositionID)
+   at Presentation.Forms.Report.FrmRPT050_VarianceReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT050_VarianceReport.cs:line 87
+2018-05-11 16:57:05,489 INFO  [Main] - Login Success
+2018-05-11 17:00:50,843 INFO  [Main] - Login Success
+2018-05-11 17:05:29,718 INFO  [Main] - Login Success
+2018-05-11 17:10:11,556 INFO  [Main] - Login Success
+2018-05-11 17:17:33,756 INFO  [Main] - Login Success
+2018-05-11 17:19:49,290 INFO  [Main] - Login Success
+2018-05-11 17:30:08,499 INFO  [Main] - Login Success
+2018-05-11 17:32:45,460 INFO  [Main] - Login Success
+2018-05-11 17:33:19,170 INFO  [Main] - Login Success
+2018-05-11 17:38:40,533 INFO  [Main] - Login Success
+2018-05-11 17:48:54,174 INFO  [Main] - Login Success
+2018-05-14 10:34:23,106 INFO  [Main] - Login Success
+2018-05-14 10:38:32,010 INFO  [Main] - Login Success
+2018-05-14 10:45:38,544 INFO  [Main] - Login Success
+2018-05-14 10:47:55,532 INFO  [Main] - Login Success
+2018-05-14 10:48:32,204 INFO  [Main] - Login Success
+2018-05-14 10:53:54,574 INFO  [Main] - Login Success
+2018-05-14 10:58:49,806 INFO  [Main] - Login Success
+2018-05-14 11:24:42,628 INFO  [Main] - Login Success
+2018-05-14 11:25:07,358 INFO  [Main] - Login Success
+2018-05-14 12:03:28,597 INFO  [Main] - Login Success
+2018-05-14 12:05:30,620 INFO  [Main] - Login Success
+2018-05-14 12:08:21,809 INFO  [Main] - Login Success
+2018-05-14 12:10:16,465 INFO  [Main] - Login Success
+2018-05-14 14:01:50,942 INFO  [Main] - Login Success
+2018-05-14 14:02:34,027 INFO  [Main] - Login Success
+2018-05-14 14:04:46,993 INFO  [Main] - Login Success
+2018-05-14 14:11:52,974 INFO  [Main] - Login Success
+2018-05-14 14:13:18,707 INFO  [Main] - Login Success
+2018-05-14 14:14:20,059 INFO  [Main] - Login Success
+2018-05-14 14:33:45,139 INFO  [Main] - Login Success
+2018-05-14 14:35:18,806 INFO  [Main] - Login Success
+2018-05-14 14:37:41,956 INFO  [Main] - Login Success
+2018-05-14 14:39:41,336 INFO  [Main] - Login Success
+2018-05-14 14:41:05,256 INFO  [Main] - Login Success
+2018-05-14 14:43:01,906 INFO  [Main] - Login Success
+2018-05-14 15:16:14,366 INFO  [Main] - Login Success
+2018-05-14 15:20:56,904 INFO  [Main] - Login Success
+2018-05-14 15:34:11,592 INFO  [Main] - Login Success
+2018-05-14 15:36:22,178 INFO  [Main] - Login Success
+2018-05-14 15:43:53,743 INFO  [Main] - Login Success
+2018-05-14 15:55:28,203 INFO  [Main] - Login Success
+2018-05-14 15:56:58,631 INFO  [Main] - Login Success
+2018-05-14 15:59:11,185 INFO  [Main] - Login Success
+2018-05-14 16:00:57,271 INFO  [Main] - Login Success
+2018-05-14 16:02:34,013 INFO  [Main] - Login Success
+2018-05-14 16:04:08,545 INFO  [Main] - Login Success
+2018-05-14 16:05:13,905 INFO  [Main] - Login Success
+2018-05-14 16:07:36,729 INFO  [Main] - Login Success
+2018-05-14 16:08:26,721 INFO  [Main] - Login Success
+2018-05-14 16:09:14,105 INFO  [Main] - Login Success
+2018-05-14 16:13:01,006 INFO  [Main] - Login Success
+2018-05-14 16:52:52,543 INFO  [Main] - Login Success
+2018-05-14 16:54:01,274 INFO  [Main] - Login Success
+2018-05-14 16:55:28,486 INFO  [Main] - Login Success
+2018-05-14 16:56:22,318 INFO  [Main] - Login Success
+2018-05-14 16:59:44,819 INFO  [Main] - Login Success
+2018-05-14 17:02:34,028 INFO  [Main] - Login Success
+2018-05-14 17:04:29,239 INFO  [Main] - Login Success
+2018-05-14 17:08:32,637 INFO  [Main] - Login Success
+2018-05-14 17:17:03,242 INFO  [Main] - Login Success
+2018-05-14 17:17:30,486 INFO  [Main] - Login Success
+2018-05-14 17:27:21,283 INFO  [Main] - Login Success
+2018-05-14 17:28:42,920 INFO  [Main] - Login Success
+2018-05-14 17:30:16,394 INFO  [Main] - Login Success
+2018-05-15 11:04:19,522 INFO  [Main] - Login Success
+2018-05-15 11:07:09,202 INFO  [Main] - Login Success
+2018-05-15 11:07:55,194 INFO  [Main] - Login Success
+2018-05-15 11:08:50,554 INFO  [Main] - Login Success
+2018-05-15 11:13:43,048 INFO  [Main] - Login Success
+2018-05-15 11:15:49,906 INFO  [Main] - Login Success
+2018-05-15 11:20:27,300 INFO  [Main] - Login Success
+2018-05-15 11:25:19,894 INFO  [Main] - Login Success
+2018-05-15 11:25:52,723 INFO  [Main] - Login Success
+2018-05-15 11:29:00,627 INFO  [Main] - Login Success
+2018-05-15 11:29:43,903 INFO  [Main] - Login Success
+2018-05-15 11:30:16,976 INFO  [Main] - Login Success
+2018-05-15 11:30:51,965 INFO  [Main] - Login Success
+2018-05-15 11:32:15,674 INFO  [Main] - Login Success
+2018-05-15 11:32:49,526 INFO  [Main] - Login Success
+2018-05-15 11:33:04,676 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:33:06,714 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:33:18,598 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:33:22,916 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:33:27,085 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:33:52,187 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:34:01,219 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:34:19,761 INFO  [Main] - Login Success
+2018-05-15 11:34:37,633 ERROR [Main] - Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.ValidateRequire() in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 112
+   at Presentation.Forms.Report.FrmRPT040_ClosingItemReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT040_ClosingItemReport.cs:line 132
+2018-05-15 11:35:16,767 INFO  [Main] - Login Success
+2018-05-15 11:36:41,798 INFO  [Main] - Login Success
+2018-05-15 11:37:31,206 INFO  [Main] - Login Success
+2018-05-15 11:40:27,958 INFO  [Main] - Login Success
+2018-05-15 11:44:41,011 INFO  [Main] - Login Success
+2018-05-15 11:45:10,628 INFO  [Main] - Login Success
+2018-05-15 11:45:49,437 INFO  [Main] - Login Success
+2018-05-15 11:50:17,281 INFO  [Main] - Login Success
+2018-05-15 11:51:44,053 INFO  [Main] - Login Success
+2018-05-15 11:52:35,823 INFO  [Main] - Login Success
+2018-05-15 12:00:53,930 INFO  [Main] - Login Success
+2018-05-15 12:06:47,958 INFO  [Main] - Login Success
+2018-05-15 12:07:14,367 INFO  [Main] - Login Success
+2018-05-15 12:20:54,743 INFO  [Main] - Login Success
+2018-05-15 14:09:12,573 INFO  [Main] - Login Success
+2018-05-15 14:18:47,921 INFO  [Main] - Login Success
+2018-05-15 14:30:15,950 INFO  [Main] - Login Success
+2018-05-15 14:45:42,036 INFO  [Main] - Login Success
+2018-05-16 10:43:28,466 INFO  [Main] - Login Success
+2018-05-16 10:43:50,170 ERROR [Main] - Error
+System.IO.IOException: The process cannot access the file 'D:\LUBE\01.Presentation\Report\Template\RPT050_Template.xlsx' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile)
+   at Presentation.Forms.Report.FrmRPT050_VarianceReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT050_VarianceReport.cs:line 88
+2018-05-16 11:51:39,252 INFO  [Main] - Login Success
+2018-05-16 15:24:06,408 INFO  [Main] - Login Success
+2018-05-16 15:24:54,406 INFO  [Main] - Login Success
+2018-05-16 15:26:06,495 INFO  [Main] - Login Success
+2018-05-16 15:32:48,844 INFO  [Main] - Login Success
+2018-05-16 15:34:02,560 INFO  [Main] - Login Success
+2018-05-16 15:39:53,873 INFO  [Main] - Login Success
+2018-05-16 15:41:16,372 INFO  [Main] - Login Success
+2018-05-16 15:43:41,470 INFO  [Main] - Login Success
+2018-05-16 15:48:36,742 INFO  [Main] - Login Success
+2018-05-16 15:49:34,532 INFO  [Main] - Login Success
+2018-05-16 15:53:21,285 INFO  [Main] - Login Success
+2018-05-16 16:06:09,192 INFO  [Main] - Login Success
+2018-05-16 16:06:47,490 INFO  [Main] - Login Success
+2018-05-16 16:07:28,166 INFO  [Main] - Login Success
+2018-05-16 16:26:56,611 INFO  [Main] - Login Success
+2018-05-16 16:27:27,575 INFO  [Main] - Login Success
+2018-05-16 16:31:29,795 INFO  [Main] - Login Success
+2018-05-16 16:33:41,934 INFO  [Main] - Login Success
+2018-05-16 16:35:00,390 INFO  [Main] - Login Success
+2018-05-16 16:35:39,202 INFO  [Main] - Login Success
+2018-05-16 16:36:43,073 INFO  [Main] - Login Success
+2018-05-16 16:42:45,485 INFO  [Main] - Login Success
+2018-05-16 16:46:37,759 INFO  [Main] - Login Success
+2018-05-16 16:47:16,049 INFO  [Main] - Login Success
+2018-05-16 16:48:10,464 INFO  [Main] - Login Success
+2018-05-16 16:48:34,385 INFO  [Main] - Login Success
+2018-05-16 16:50:18,416 INFO  [Main] - Login Success
+2018-05-16 16:50:47,198 INFO  [Main] - Login Success
+2018-05-16 16:52:16,317 INFO  [Main] - Login Success
+2018-05-16 16:52:41,552 INFO  [Main] - Login Success
+2018-05-16 17:00:03,616 INFO  [Main] - Login Success
+2018-05-16 17:02:01,437 INFO  [Main] - Login Success
+2018-05-16 17:02:23,958 INFO  [Main] - Login Success
+2018-05-16 17:05:37,708 INFO  [Main] - Login Success
+2018-05-16 17:07:05,929 INFO  [Main] - Login Success
+2018-05-16 17:11:24,455 INFO  [Main] - Login Success
+2018-05-16 17:12:17,466 INFO  [Main] - Login Success
+2018-05-16 17:14:14,685 INFO  [Main] - Login Success
+2018-05-16 17:15:08,199 INFO  [Main] - Login Success
+2018-05-16 17:16:33,761 INFO  [Main] - Login Success
+2018-05-16 17:18:00,274 INFO  [Main] - Login Success
+2018-05-16 17:20:52,657 INFO  [Main] - Login Success
+2018-05-16 17:21:27,799 INFO  [Main] - Login Success
+2018-05-16 17:22:59,684 INFO  [Main] - Login Success
+2018-05-16 17:23:24,850 INFO  [Main] - Login Success
+2018-05-16 17:25:16,255 INFO  [Main] - Login Success
+2018-05-16 17:26:46,793 INFO  [Main] - Login Success
+2018-05-16 17:27:47,826 INFO  [Main] - Login Success
+2018-05-16 17:28:19,248 INFO  [Main] - Login Success
+2018-05-16 17:30:37,031 INFO  [Main] - Login Success
+2018-05-16 17:32:24,347 INFO  [Main] - Login Success
+2018-05-16 17:33:06,858 INFO  [Main] - Login Success
+2018-05-16 17:33:59,828 INFO  [Main] - Login Success
+2018-05-16 17:35:00,333 INFO  [Main] - Login Success
+2018-05-16 17:35:57,451 INFO  [Main] - Login Success
+2018-05-16 17:36:52,413 INFO  [Main] - Login Success
+2018-05-16 17:37:24,623 INFO  [Main] - Login Success
+2018-05-16 17:40:20,042 INFO  [Main] - Login Success
+2018-05-17 10:32:41,950 INFO  [Main] - Login Success
+2018-05-17 10:34:16,615 INFO  [Main] - Login Success
+2018-05-17 10:35:28,787 INFO  [Main] - Login Success
+2018-05-17 10:51:32,546 INFO  [Main] - Login Success
+2018-05-17 10:57:10,229 INFO  [Main] - Login Success
+2018-05-17 11:00:44,475 INFO  [Main] - Login Success
+2018-05-17 11:02:08,816 INFO  [Main] - Login Success
+2018-05-17 11:03:01,854 INFO  [Main] - Login Success
+2018-05-17 11:07:46,064 INFO  [Main] - Login Success
+2018-05-17 11:09:28,549 INFO  [Main] - Login Success
+2018-05-17 11:11:43,914 INFO  [Main] - Login Success
+2018-05-17 11:12:22,233 INFO  [Main] - Login Success
+2018-05-17 11:13:32,275 INFO  [Main] - Login Success
+2018-05-17 11:15:24,877 INFO  [Main] - Login Success
+2018-05-17 11:16:43,451 INFO  [Main] - Login Success
+2018-05-17 11:22:33,114 INFO  [Main] - Login Success
+2018-05-17 11:26:41,916 INFO  [Main] - Login Success
+2018-05-17 11:27:52,285 INFO  [Main] - Login Success
+2018-05-17 11:28:41,553 INFO  [Main] - Login Success
+2018-05-17 11:32:15,502 INFO  [Main] - Login Success
+2018-05-17 11:33:30,951 INFO  [Main] - Login Success
+2018-05-17 11:41:39,029 INFO  [Main] - Login Success
+2018-05-17 11:42:19,960 INFO  [Main] - Login Success
+2018-05-17 11:42:42,238 INFO  [Main] - Login Success
+2018-05-17 11:44:03,747 INFO  [Main] - Login Success
+2018-05-17 11:48:22,421 INFO  [Main] - Login Success
+2018-05-17 11:55:00,739 INFO  [Main] - Login Success
+2018-05-17 11:56:03,811 INFO  [Main] - Login Success
+2018-05-17 12:03:37,628 INFO  [Main] - Login Success
+2018-05-17 12:05:44,258 INFO  [Main] - Login Success
+2018-05-17 12:06:43,919 INFO  [Main] - Login Success
+2018-05-17 13:31:59,498 INFO  [Main] - Login Success
+2018-05-17 13:33:19,754 INFO  [Main] - Login Success
+2018-05-17 13:39:29,124 INFO  [Main] - Login Success
+2018-05-17 13:45:08,239 ERROR [Main] - Startup
+CrystalDecisions.Shared.CrystalReportsException: Load report failed. ---> System.Runtime.InteropServices.COMException: Unsupported Operation. A document processed by the JRC engine cannot be opened in the C++ stack.
+   at CrystalDecisions.ReportAppServer.ClientDoc.ReportClientDocumentClass.Open(Object& DocumentPath, Int32 Options)
+   at CrystalDecisions.ReportAppServer.ReportClientDocumentWrapper.Open(Object& DocumentPath, Int32 Options)
+   at CrystalDecisions.ReportAppServer.ReportClientDocumentWrapper.EnsureDocumentIsOpened()
+   --- End of inner exception stack trace ---
+   at CrystalDecisions.ReportAppServer.ReportClientDocumentWrapper.EnsureDocumentIsOpened()
+   at CrystalDecisions.CrystalReports.Engine.ReportDocument.Load(String filename, OpenReportMethod openMethod, Int16 parentJob)
+   at CrystalDecisions.CrystalReports.Engine.ReportDocument.Load(String filename)
+   at Common.ReportUtil.LoadReport(String filename) in D:\LUBE\Common\ReportUtil.cs:line 33
+   at Startup.Program.SilentLoadReport() in D:\LUBE\Startup\Program.cs:line 95
+2018-05-17 13:45:10,185 INFO  [Main] - Login Success
+2018-05-17 14:15:59,929 INFO  [Main] - Login Success
+2018-05-17 14:17:31,530 INFO  [Main] - Login Success
+2018-05-17 14:45:03,579 INFO  [Main] - Login Success
+2018-05-17 14:51:44,386 INFO  [Main] - Login Success
+2018-05-17 15:16:10,626 INFO  [Main] - Login Success
+2018-05-17 15:16:40,651 ERROR [12] - Error
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtActualMOH' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at EAP.Framework.Windows.Controls.NumericTextBox.set_DecimalValue(Decimal value) in D:\LUBE\00.Framework\EAP.Framework.Windows\Controls\TextBoxBase\TextBox.cs:line 446
+   at Presentation.Forms.Process.FrmACS320_ProcessActualCostCalculation.StartProcess(ProcessArgument arg) in D:\LUBE\01.Presentation\Forms\Process\FrmACS320_ProcessActualCostCalculation.cs:line 125
+2018-05-17 15:21:51,528 INFO  [Main] - Login Success
+2018-05-17 15:22:31,302 INFO  [Main] - Login Success
+2018-05-17 15:30:32,905 INFO  [Main] - Login Success
+2018-05-17 15:35:02,049 INFO  [Main] - Login Success
+2018-05-17 15:58:41,109 INFO  [Main] - Login Success
+2018-05-17 16:06:59,365 INFO  [Main] - Login Success
+2018-05-21 10:31:11,495 INFO  [Main] - Login Success
+2018-05-21 10:43:25,913 INFO  [Main] - Login Success
+2018-05-21 10:46:02,142 INFO  [Main] - Login Success
+2018-05-21 10:46:28,860 INFO  [Main] - Login Success
+2018-05-22 11:32:35,789 INFO  [Main] - Login Success
+2018-05-22 12:14:10,728 INFO  [Main] - Login Success
+2018-05-22 12:20:59,169 INFO  [Main] - Login Success
+2018-05-22 14:20:29,733 INFO  [Main] - Login Success
+2018-05-22 14:21:02,272 ERROR [Main] - Error
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+Parameter name: Start cell Address must be less or equal to End cell address
+   at OfficeOpenXml.ExcelAddressBase.Validate()
+   at OfficeOpenXml.ExcelAddressBase..ctor(Int32 fromRow, Int32 fromCol, Int32 toRow, Int32 toColumn)
+   at OfficeOpenXml.ExcelRangeBase.Copy(ExcelRangeBase Destination, Nullable`1 excelRangeCopyOptionFlags)
+   at OfficeOpenXml.ExcelRangeBase.Copy(ExcelRangeBase Destination)
+   at Presentation.Forms.Report.FrmRPT030_CostofGoodsManufacturedReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.cs:line 114
+2018-05-22 14:21:58,467 INFO  [Main] - Login Success
+2018-05-22 14:23:10,689 INFO  [Main] - Login Success
+2018-05-22 14:27:54,696 INFO  [Main] - Login Success
+2018-05-22 14:39:07,930 INFO  [Main] - Login Success
+2018-05-22 15:01:10,305 INFO  [Main] - Login Success
+2018-05-22 15:12:34,970 INFO  [Main] - Login Success
+2018-05-22 15:13:04,869 ERROR [Main] - Error
+System.IO.IOException: The process cannot access the file 'D:\LUBE\01.Presentation\Report\Template\RPT030_Template.xlsx' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile)
+   at Presentation.Forms.Report.FrmRPT030_CostofGoodsManufacturedReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.cs:line 88
+2018-05-22 15:19:02,177 INFO  [Main] - Login Success
+2018-05-22 15:37:01,493 INFO  [Main] - Login Success
+2018-05-22 15:40:18,090 INFO  [Main] - Login Success
+2018-05-22 15:46:49,219 INFO  [Main] - Login Success
+2018-05-24 16:21:07,325 INFO  [Main] - Login Success
+2018-05-24 16:34:13,046 INFO  [Main] - Login Success
+2018-05-24 16:49:06,880 INFO  [Main] - Login Success
+2018-05-25 10:20:19,059 INFO  [Main] - Login Success
+2018-05-25 10:34:12,830 INFO  [Main] - Login Success
+2018-05-25 10:50:50,732 INFO  [Main] - Login Success
+2018-05-25 11:23:57,982 INFO  [Main] - Login Success
+2018-05-25 11:38:13,984 INFO  [Main] - Login Success
+2018-05-25 12:01:17,560 INFO  [Main] - Login Success
+2018-05-25 12:01:44,602 INFO  [Main] - Login Success
+2018-05-25 12:04:39,190 INFO  [Main] - Login Success
+2018-05-25 12:08:47,023 INFO  [Main] - Login Success
+2018-05-25 12:10:45,360 INFO  [Main] - Login Success
+2018-05-25 12:11:47,095 INFO  [Main] - Login Success
+2018-05-25 12:12:30,091 INFO  [Main] - Login Success
+2018-05-25 12:22:40,579 INFO  [Main] - Login Success
+2018-05-25 12:22:53,627 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_ACS110_SearchCostType' expects parameter '@CostTypeCode', which was not supplied.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteCommand(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 277
+   at DataAccess.StoreProcedure.sp_ACS110_SearchCostType(Database db, String searchCostType, String searchDesc, Nullable`1 searchCostGrp) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 78
+   at BusinessService.ACS110_MasterBIZ.RetrieveData(String searchCostType, String searchDesc, Nullable`1 searchCostGrp) in D:\LUBE\02.BusinessService\Master\ACS110_MasterBIZ.cs:line 30
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.RetrieveData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 159
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.btnSearch_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 195
+ClientConnectionId:ead74545-5b71-477d-b26d-40241e7bdf33
+Error Number:201,State:4,Class:16
+2018-05-25 14:01:01,917 INFO  [Main] - Login Success
+2018-05-25 14:07:19,456 INFO  [Main] - Login Success
+2018-05-25 14:11:20,737 INFO  [Main] - Login Success
+2018-05-25 14:12:40,914 INFO  [Main] - Login Success
+2018-05-25 14:14:37,254 INFO  [Main] - Login Success
+2018-05-25 14:16:54,238 INFO  [Main] - Login Success
+2018-05-25 14:18:49,951 INFO  [Main] - Login Success
+2018-05-25 14:24:14,291 INFO  [Main] - Login Success
+2018-05-25 14:27:33,723 INFO  [Main] - Login Success
+2018-05-25 14:30:32,956 INFO  [Main] - Login Success
+2018-05-25 14:30:53,515 ERROR [Main] - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.BindSearchData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 160
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.RetrieveData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 167
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.btnSearch_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 205
+2018-05-25 14:33:25,083 INFO  [Main] - Login Success
+2018-05-25 14:34:12,363 INFO  [Main] - Login Success
+2018-05-25 14:53:12,746 INFO  [Main] - Login Success
+2018-05-25 14:54:26,354 INFO  [Main] - Login Success
+2018-05-25 14:56:53,634 INFO  [Main] - Login Success
+2018-05-25 14:57:34,699 INFO  [Main] - Login Success
+2018-05-25 14:58:22,322 INFO  [Main] - Login Success
+2018-05-25 15:02:45,472 INFO  [Main] - Login Success
+2018-05-25 15:03:44,821 INFO  [Main] - Login Success
+2018-05-25 15:07:47,948 INFO  [Main] - Login Success
+2018-05-25 15:09:14,308 INFO  [Main] - Login Success
+2018-05-25 15:10:56,580 INFO  [Main] - Login Success
+2018-05-25 15:14:35,706 INFO  [Main] - Login Success
+2018-05-25 15:20:14,766 INFO  [Main] - Login Success
+2018-05-25 15:20:26,235 ERROR [Main] - Error
+System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 435
+   at EAP.Framework.Data.SqlData.ExecuteCommand(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 277
+   at DataAccess.StoreProcedure.sp_ACS110_SearchCostType(Database db, String CostTypeCode, String CostDesc, String CostGroup) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 78
+   at BusinessService.ACS110_MasterBIZ.RetrieveData(String searchCostType, String searchDesc, String searchCostGrp) in D:\LUBE\02.BusinessService\Master\ACS110_MasterBIZ.cs:line 30
+   at Presentation.Forms.Master.FrmACS110_CostTypeSetup.RetrieveData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS110_CostTypeSetup.cs:line 228
+2018-05-25 15:22:13,353 INFO  [Main] - Login Success
+2018-05-25 15:23:15,202 INFO  [Main] - Login Success
+2018-05-25 15:25:51,363 INFO  [Main] - Login Success
+2018-05-25 15:28:10,891 INFO  [Main] - Login Success
+2018-05-25 15:29:20,796 INFO  [Main] - Login Success
+2018-05-25 15:30:35,829 INFO  [Main] - Login Success
+2018-05-25 15:32:19,700 INFO  [Main] - Login Success
+2018-05-25 15:32:54,395 INFO  [Main] - Login Success
+2018-05-25 15:33:45,336 INFO  [Main] - Login Success
+2018-05-25 15:34:52,029 INFO  [Main] - Login Success
+2018-05-25 15:35:48,700 INFO  [Main] - Login Success
+2018-05-25 15:38:21,625 INFO  [Main] - Login Success
+2018-05-25 15:39:37,380 INFO  [Main] - Login Success
+2018-05-25 15:40:41,939 INFO  [Main] - Login Success
+2018-05-25 15:43:54,840 INFO  [Main] - Login Success
+2018-05-25 15:45:15,394 INFO  [Main] - Login Success
+2018-05-25 15:46:32,873 INFO  [Main] - Login Success
+2018-05-25 15:47:44,755 INFO  [Main] - Login Success
+2018-05-25 15:48:38,258 INFO  [Main] - Login Success
+2018-05-25 15:50:12,989 INFO  [Main] - Login Success
+2018-05-25 15:50:58,722 INFO  [Main] - Login Success
+2018-05-25 15:52:24,839 INFO  [Main] - Login Success
+2018-05-25 15:53:45,445 INFO  [Main] - Login Success
+2018-05-25 15:56:27,060 INFO  [Main] - Login Success
+2018-05-25 15:58:28,965 INFO  [Main] - Login Success
+2018-05-25 15:59:59,149 INFO  [Main] - Login Success
+2018-05-25 16:02:06,406 INFO  [Main] - Login Success
+2018-05-25 16:14:36,564 INFO  [Main] - Login Success
+2018-05-25 16:17:25,470 INFO  [Main] - Login Success
+2018-05-25 16:21:30,030 INFO  [Main] - Login Success
+2018-05-25 16:34:22,616 INFO  [Main] - Login Success
+2018-05-25 16:35:37,674 INFO  [Main] - Login Success
+2018-05-25 16:37:12,640 INFO  [Main] - Login Success
+2018-05-25 16:39:20,670 INFO  [Main] - Login Success
+2018-05-25 16:44:38,631 INFO  [Main] - Login Success
+2018-05-25 16:47:13,931 INFO  [Main] - Login Success
+2018-05-25 16:48:07,015 INFO  [Main] - Login Success
+2018-05-25 16:51:10,347 INFO  [Main] - Login Success
+2018-05-25 16:53:04,780 INFO  [Main] - Login Success
+2018-05-25 16:57:18,323 INFO  [Main] - Login Success
+2018-05-25 16:57:54,508 INFO  [Main] - Login Success
+2018-05-25 16:58:56,556 INFO  [Main] - Login Success
+2018-05-25 17:03:05,913 INFO  [Main] - Login Success
+2018-05-25 17:10:24,621 INFO  [Main] - Login Success
+2018-05-25 17:11:01,977 INFO  [Main] - Login Success
+2018-05-25 17:13:29,679 INFO  [Main] - Login Success
+2018-05-25 17:16:00,275 INFO  [Main] - Login Success
+2018-05-25 17:19:18,402 INFO  [Main] - Login Success
+2018-05-25 17:20:47,917 INFO  [Main] - Login Success
+2018-05-25 17:33:03,835 INFO  [Main] - Login Success
+2018-05-25 17:37:06,152 INFO  [Main] - Login Success
+2018-05-25 17:38:16,761 INFO  [Main] - Login Success
+2018-05-25 17:39:45,379 INFO  [Main] - Login Success
+2018-05-25 17:40:58,372 INFO  [Main] - Login Success
+2018-05-25 17:42:17,405 INFO  [Main] - Login Success
+2018-05-25 17:44:19,359 INFO  [Main] - Login Success
+2018-05-25 17:45:14,033 INFO  [Main] - Login Success
+2018-05-25 17:50:27,914 INFO  [Main] - Login Success
+2018-05-25 17:54:07,881 INFO  [Main] - Login Success
+2018-05-25 17:56:04,321 INFO  [Main] - Login Success
+2018-05-25 17:58:04,703 INFO  [Main] - Login Success
+2018-05-25 18:01:47,487 INFO  [Main] - Login Success
+2018-05-25 18:08:03,971 INFO  [Main] - Login Success
+2018-05-25 18:09:56,784 INFO  [Main] - Login Success
+2018-05-25 18:11:58,436 INFO  [Main] - Login Success
+2018-05-25 18:14:00,770 INFO  [Main] - Login Success
+2018-05-28 11:21:27,910 INFO  [Main] - Login Success
+2018-05-28 11:21:38,309 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_ACS120_SearchAccount' expects parameter '@AccCode', which was not supplied.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteCommand(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 277
+   at DataAccess.StoreProcedure.sp_ACS120_SearchAccount(Database db, String srchAccCode, String srchAccName) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 135
+   at BusinessService.ACS120_MasterBIZ.RetrieveData(String srchAccCode, String srchAccName) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 25
+   at Presentation.Forms.Master.FrmACS120_MappingAccountCodeAndCostType.RetrieveData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_MappingAccountCodeAndCostType.cs:line 63
+ClientConnectionId:2ea311a7-f2e3-4e8c-98ea-e75078d76f62
+Error Number:201,State:4,Class:16
+2018-05-28 11:23:16,318 INFO  [Main] - Login Success
+2018-05-28 11:35:29,799 INFO  [Main] - Login Success
+2018-05-28 12:05:08,239 INFO  [Main] - Login Success
+2018-05-28 12:06:03,319 INFO  [Main] - Login Success
+2018-05-28 12:06:37,708 INFO  [Main] - Login Success
+2018-05-28 12:07:10,465 INFO  [Main] - Login Success
+2018-05-28 12:10:18,042 INFO  [Main] - Login Success
+2018-05-28 12:15:37,650 INFO  [Main] - Login Success
+2018-05-28 12:17:30,248 INFO  [Main] - Login Success
+2018-05-28 12:18:11,223 INFO  [Main] - Login Success
+2018-05-28 12:22:39,791 INFO  [Main] - Login Success
+2018-05-28 12:25:45,769 INFO  [Main] - Login Success
+2018-05-28 12:28:23,401 INFO  [Main] - Login Success
+2018-05-28 12:30:20,058 INFO  [Main] - Login Success
+2018-05-28 12:32:37,243 INFO  [Main] - Login Success
+2018-05-28 12:33:34,106 INFO  [Main] - Login Success
+2018-05-28 13:14:13,617 INFO  [Main] - Login Success
+2018-05-28 13:23:32,622 INFO  [Main] - Login Success
+2018-05-28 13:24:35,054 INFO  [Main] - Login Success
+2018-05-28 14:17:06,015 INFO  [Main] - Login Success
+2018-05-28 14:17:41,396 INFO  [Main] - Login Success
+2018-05-28 14:21:05,506 INFO  [Main] - Login Success
+2018-05-28 14:23:46,141 INFO  [Main] - Login Success
+2018-05-28 14:25:10,462 INFO  [Main] - Login Success
+2018-05-28 14:44:51,963 INFO  [Main] - Login Success
+2018-05-28 14:45:47,178 INFO  [Main] - Login Success
+2018-05-28 14:51:38,105 INFO  [Main] - Login Success
+2018-05-28 14:52:58,118 INFO  [Main] - Login Success
+2018-05-28 14:59:08,058 INFO  [Main] - Login Success
+2018-05-28 15:00:00,228 INFO  [Main] - Login Success
+2018-05-28 15:13:59,367 INFO  [Main] - Login Success
+2018-05-28 15:15:20,179 INFO  [Main] - Login Success
+2018-05-28 15:17:23,960 INFO  [Main] - Login Success
+2018-05-28 15:22:15,269 INFO  [Main] - Login Success
+2018-05-28 15:31:23,527 INFO  [Main] - Login Success
+2018-05-28 15:46:12,685 INFO  [Main] - Login Success
+2018-05-28 15:47:16,620 INFO  [Main] - Login Success
+2018-05-28 15:48:25,722 INFO  [Main] - Login Success
+2018-05-28 15:50:14,613 INFO  [Main] - Login Success
+2018-05-28 15:55:23,236 INFO  [Main] - Login Success
+2018-05-28 15:59:52,282 INFO  [Main] - Login Success
+2018-05-28 16:11:08,218 INFO  [Main] - Login Success
+2018-05-28 16:17:21,388 INFO  [Main] - Login Success
+2018-05-30 11:07:11,155 INFO  [Main] - Login Success
+2018-05-30 11:15:44,025 INFO  [Main] - Login Success
+2018-05-30 11:18:03,914 INFO  [Main] - Login Success
+2018-05-30 11:19:46,838 INFO  [Main] - Login Success
+2018-05-30 11:21:35,193 INFO  [Main] - Login Success
+2018-05-30 11:27:13,343 INFO  [Main] - Login Success
+2018-05-30 11:34:54,388 INFO  [Main] - Login Success
+2018-05-30 11:41:39,621 INFO  [Main] - Login Success
+2018-05-30 11:46:06,798 INFO  [Main] - Login Success
+2018-05-30 11:48:17,051 INFO  [Main] - Login Success
+2018-05-30 11:50:59,547 INFO  [Main] - Login Success
+2018-05-30 11:52:06,438 INFO  [Main] - Login Success
+2018-05-30 12:03:35,746 INFO  [Main] - Login Success
+2018-05-30 12:26:27,200 INFO  [Main] - Login Success
+2018-05-30 12:29:10,015 INFO  [Main] - Login Success
+2018-05-30 12:31:51,850 INFO  [Main] - Login Success
+2018-05-30 13:03:42,003 INFO  [Main] - Login Success
+2018-05-30 13:09:28,256 INFO  [Main] - Login Success
+2018-05-30 13:11:20,619 INFO  [Main] - Login Success
+2018-05-30 13:13:02,685 INFO  [Main] - Login Success
+2018-05-30 13:15:12,450 INFO  [Main] - Login Success
+2018-05-30 13:27:23,590 INFO  [Main] - Login Success
+2018-05-30 14:03:26,550 INFO  [Main] - Login Success
+2018-05-30 14:11:29,057 INFO  [Main] - Login Success
+2018-05-30 14:29:15,187 INFO  [Main] - Login Success
+2018-05-30 14:40:03,951 INFO  [Main] - Login Success
+2018-05-30 14:44:58,737 INFO  [Main] - Login Success
+2018-05-30 14:48:50,804 INFO  [Main] - Login Success
+2018-05-30 15:14:14,156 INFO  [Main] - Login Success
+2018-05-30 15:16:19,394 INFO  [Main] - Login Success
+2018-05-30 15:18:16,658 INFO  [Main] - Login Success
+2018-05-30 15:19:47,833 INFO  [Main] - Login Success
+2018-05-30 15:23:00,223 INFO  [Main] - Login Success
+2018-05-30 15:24:28,651 INFO  [Main] - Login Success
+2018-05-30 15:28:07,192 INFO  [Main] - Login Success
+2018-05-30 15:28:52,756 INFO  [Main] - Login Success
+2018-05-30 15:34:10,892 INFO  [Main] - Login Success
+2018-05-30 15:35:24,890 INFO  [Main] - Login Success
+2018-05-30 15:36:56,077 INFO  [Main] - Login Success
+2018-05-30 15:38:27,462 INFO  [Main] - Login Success
+2018-05-30 15:40:39,683 INFO  [Main] - Login Success
+2018-05-30 15:46:08,252 INFO  [Main] - Login Success
+2018-05-30 15:47:54,987 INFO  [Main] - Login Success
+2018-05-30 15:50:13,719 INFO  [Main] - Login Success
+2018-05-30 15:51:40,905 INFO  [Main] - Login Success
+2018-05-30 15:52:30,502 INFO  [Main] - Login Success
+2018-05-30 15:56:47,070 INFO  [Main] - Login Success
+2018-05-30 15:58:10,895 INFO  [Main] - Login Success
+2018-05-30 15:59:23,306 INFO  [Main] - Login Success
+2018-05-30 16:00:50,514 INFO  [Main] - Login Success
+2018-05-30 16:17:14,414 INFO  [Main] - Login Success
+2018-05-30 16:33:09,567 INFO  [Main] - Login Success
+2018-05-30 16:34:17,606 INFO  [Main] - Login Success
+2018-05-30 16:40:03,811 INFO  [Main] - Login Success
+2018-05-30 16:49:25,045 INFO  [Main] - Login Success
+2018-05-30 16:51:06,181 INFO  [Main] - Login Success
+2018-05-30 16:53:05,547 INFO  [Main] - Login Success
+2018-05-30 16:54:11,746 INFO  [Main] - Login Success
+2018-05-30 16:59:47,634 INFO  [Main] - Login Success
+2018-05-30 17:00:04,540 ERROR [Main] - Error
+System.InvalidOperationException: Error saving file C:\Users\pachara.CSIGROUPS\Desktop\DetailBudgetCapaVarianceReport_3-2018.xlsx ---> System.Exception: Error overwriting file C:\Users\pachara.CSIGROUPS\Desktop\DetailBudgetCapaVarianceReport_3-2018.xlsx ---> System.IO.IOException: The process cannot access the file 'C:\Users\pachara.CSIGROUPS\Desktop\DetailBudgetCapaVarianceReport_3-2018.xlsx' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at OfficeOpenXml.ExcelPackage.Save()
+   --- End of inner exception stack trace ---
+   at OfficeOpenXml.ExcelPackage.Save()
+   --- End of inner exception stack trace ---
+   at OfficeOpenXml.ExcelPackage.Save()
+   at OfficeOpenXml.ExcelPackage.SaveAs(FileInfo file)
+   at Presentation.Forms.Report.FrmRPT050_VarianceReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT050_VarianceReport.cs:line 225
+2018-05-30 17:14:56,970 INFO  [Main] - Login Success
+2018-05-30 17:18:34,970 INFO  [Main] - Login Success
+2018-05-30 17:23:30,462 INFO  [Main] - Login Success
+2018-05-30 17:26:12,169 INFO  [Main] - Login Success
+2018-05-30 17:28:52,956 INFO  [Main] - Login Success
+2018-05-30 17:30:45,469 INFO  [Main] - Login Success
+2018-05-30 17:31:44,402 INFO  [Main] - Login Success
+2018-05-30 17:32:55,438 INFO  [Main] - Login Success
+2018-05-30 17:33:31,614 INFO  [Main] - Login Success
+2018-05-30 17:35:27,950 INFO  [Main] - Login Success
+2018-05-30 17:36:00,696 INFO  [Main] - Login Success
+2018-05-30 17:36:45,159 INFO  [Main] - Login Success
+2018-05-30 17:40:32,310 INFO  [Main] - Login Success
+2018-05-30 17:42:46,513 INFO  [Main] - Login Success
+2018-05-30 17:45:39,767 INFO  [Main] - Login Success
+2018-05-30 17:47:08,915 INFO  [Main] - Login Success
+2018-05-31 11:12:24,238 INFO  [Main] - Login Success
+2018-05-31 11:14:00,061 INFO  [Main] - Login Success
+2018-05-31 11:17:45,317 INFO  [Main] - Login Success
+2018-05-31 11:19:46,569 INFO  [Main] - Login Success
+2018-05-31 11:21:55,564 INFO  [Main] - Login Success
+2018-05-31 11:26:38,747 INFO  [Main] - Login Success
+2018-05-31 11:29:02,218 INFO  [Main] - Login Success
+2018-05-31 11:32:56,243 INFO  [Main] - Login Success
+2018-05-31 11:35:21,775 INFO  [Main] - Login Success
+2018-05-31 11:38:13,018 INFO  [Main] - Login Success
+2018-05-31 11:40:41,825 INFO  [Main] - Login Success
+2018-05-31 11:41:00,558 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821120, C001).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 121
+ClientConnectionId:6e2ddaa8-9625-4910-9406-11b606638817
+Error Number:2627,State:1,Class:14
+2018-05-31 11:41:16,825 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821100, C001).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 121
+ClientConnectionId:6e2ddaa8-9625-4910-9406-11b606638817
+Error Number:2627,State:1,Class:14
+2018-05-31 11:42:39,744 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821100, C001).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 121
+ClientConnectionId:6e2ddaa8-9625-4910-9406-11b606638817
+Error Number:2627,State:1,Class:14
+2018-05-31 11:43:06,716 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821120, TEST2).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 121
+ClientConnectionId:6e2ddaa8-9625-4910-9406-11b606638817
+Error Number:2627,State:1,Class:14
+2018-05-31 11:44:38,565 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821120, TEST3).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 121
+ClientConnectionId:6e2ddaa8-9625-4910-9406-11b606638817
+Error Number:2627,State:1,Class:14
+2018-05-31 11:47:01,054 INFO  [Main] - Login Success
+2018-05-31 11:48:30,704 ERROR [Main] - Error
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_tb_MappingAccount_CostType'. Cannot insert duplicate key in object 'dbo.tbm_MappingAccount_CostType'. The duplicate key value is (821100, C002).
+The statement has been terminated.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 456
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS120_UpdateMappingData(Database db, String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 165
+   at BusinessService.ACS120_MasterBIZ.UpdateMappingData(String AccCode, String CostType, Double Percent, String byUser) in D:\LUBE\02.BusinessService\Master\ACS120_MasterBIZ.cs:line 45
+   at Presentation.Forms.Master.FrmACS120_AddEditCostType.UpdateData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_AddEditCostType.cs:line 122
+ClientConnectionId:6c18ad4e-a878-4be7-996a-4e6c36c0c129
+Error Number:2627,State:1,Class:14
+2018-05-31 11:51:40,975 INFO  [Main] - Login Success
+2018-05-31 11:55:24,741 INFO  [Main] - Login Success
+2018-05-31 11:57:18,880 INFO  [Main] - Login Success
+2018-05-31 11:59:32,350 INFO  [Main] - Login Success
+2018-05-31 12:00:15,703 INFO  [Main] - Login Success
+2018-05-31 12:02:35,738 INFO  [Main] - Login Success
+2018-05-31 12:03:07,568 ERROR [Main] - Error
+System.ArgumentException: Column named AccountCode cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Presentation.Forms.Master.FrmACS120_MappingAccountCodeAndCostType.DeleteData() in D:\LUBE\01.Presentation\Forms\Master\FrmACS120_MappingAccountCodeAndCostType.cs:line 111
+2018-05-31 12:05:34,006 INFO  [Main] - Login Success
+2018-05-31 14:24:25,307 INFO  [Main] - Login Success
+2018-05-31 14:38:46,306 INFO  [Main] - Login Success
+2018-05-31 14:42:37,062 INFO  [Main] - Login Success
+2018-05-31 14:43:24,499 INFO  [Main] - Login Success
+2018-05-31 14:44:23,520 INFO  [Main] - Login Success
+2018-05-31 14:46:47,514 INFO  [Main] - Login Success
+2018-05-31 14:48:19,185 INFO  [Main] - Login Success
+2018-05-31 14:49:14,307 INFO  [Main] - Login Success
+2018-05-31 14:56:48,902 INFO  [Main] - Login Success
+2018-05-31 15:08:05,492 INFO  [Main] - Login Success
+2018-05-31 15:12:57,195 INFO  [Main] - Login Success
+2018-05-31 15:37:48,493 INFO  [Main] - Login Success
+2018-05-31 15:54:58,422 INFO  [Main] - Login Success
+2018-05-31 15:56:13,874 INFO  [Main] - Login Success
+2018-05-31 15:58:40,749 INFO  [Main] - Login Success
+2018-05-31 16:05:35,718 INFO  [Main] - Login Success
+2018-05-31 16:16:37,348 INFO  [Main] - Login Success
+2018-05-31 16:17:45,013 INFO  [Main] - Login Success
+2018-05-31 16:18:57,360 INFO  [Main] - Login Success
+2018-05-31 16:25:25,676 INFO  [Main] - Login Success
+2018-05-31 16:35:49,728 INFO  [Main] - Login Success
+2018-05-31 16:43:43,092 INFO  [Main] - Login Success
+2018-05-31 16:46:19,786 INFO  [Main] - Login Success
+2018-05-31 16:56:25,532 INFO  [Main] - Login Success
+2018-05-31 16:58:17,056 INFO  [Main] - Login Success
+2018-05-31 16:59:23,266 INFO  [Main] - Login Success
+2018-05-31 17:00:30,605 INFO  [Main] - Login Success
+2018-05-31 17:01:02,451 INFO  [Main] - Login Success
+2018-05-31 17:03:42,597 INFO  [Main] - Login Success
+2018-05-31 17:04:38,002 INFO  [Main] - Login Success
+2018-05-31 17:11:54,017 INFO  [Main] - Login Success
+2018-05-31 17:13:14,374 INFO  [Main] - Login Success
+2018-05-31 17:15:26,879 INFO  [Main] - Login Success
+2018-05-31 17:15:54,792 INFO  [Main] - Login Success
+2018-05-31 17:21:11,148 INFO  [Main] - Login Success
+2018-05-31 17:32:59,637 INFO  [Main] - Login Success
+2018-05-31 17:34:38,112 INFO  [Main] - Login Success
+2018-05-31 17:37:02,844 INFO  [Main] - Login Success
+2018-05-31 17:38:33,666 INFO  [Main] - Login Success
+2018-05-31 17:39:50,405 INFO  [Main] - Login Success
+2018-05-31 17:43:02,321 INFO  [Main] - Login Success
+2018-05-31 17:44:13,978 INFO  [Main] - Login Success
+2018-05-31 17:50:35,525 INFO  [Main] - Login Success
+2018-05-31 17:51:23,346 INFO  [Main] - Login Success
+2018-05-31 17:56:22,949 INFO  [Main] - Login Success
+2018-06-01 10:40:25,160 INFO  [Main] - Login Success
+2018-06-01 11:02:50,238 INFO  [Main] - Login Success
+2018-06-01 11:05:53,553 INFO  [Main] - Login Success
+2018-06-01 11:09:48,441 INFO  [Main] - Login Success
+2018-06-01 11:14:37,974 INFO  [Main] - Login Success
+2018-06-01 11:36:43,857 INFO  [Main] - Login Success
+2018-06-01 11:42:31,295 INFO  [Main] - Login Success
+2018-06-01 11:44:52,266 INFO  [Main] - Login Success
+2018-06-01 11:46:03,960 INFO  [Main] - Login Success
+2018-06-01 11:50:09,034 INFO  [Main] - Login Success
+2018-06-01 11:51:24,937 INFO  [Main] - Login Success
+2018-06-01 12:12:08,451 INFO  [Main] - Login Success
+2018-06-01 12:16:57,261 INFO  [Main] - Login Success
+2018-06-01 12:25:31,777 INFO  [Main] - Login Success
+2018-06-01 12:32:44,556 INFO  [Main] - Login Success
+2018-06-01 13:18:17,202 INFO  [Main] - Login Success
+2018-06-01 13:20:47,648 INFO  [Main] - Login Success
+2018-06-01 13:22:56,079 INFO  [Main] - Login Success
+2018-06-01 13:26:51,561 INFO  [Main] - Login Success
+2018-06-01 13:30:27,874 INFO  [Main] - Login Success
+2018-06-01 13:31:57,519 INFO  [Main] - Login Success
+2018-06-01 13:32:28,252 INFO  [Main] - Login Success
+2018-06-01 13:44:21,264 INFO  [Main] - Login Success
+2018-06-01 13:56:48,885 INFO  [Main] - Login Success
+2018-06-01 13:57:17,149 INFO  [Main] - Login Success
+2018-06-01 13:58:21,518 INFO  [Main] - Login Success
+2018-06-01 14:03:57,326 INFO  [Main] - Login Success
+2018-06-01 14:06:08,652 INFO  [Main] - Login Success
+2018-06-01 14:08:42,807 INFO  [Main] - Login Success
+2018-06-01 14:22:57,086 INFO  [Main] - Login Success
+2018-06-01 14:24:23,389 INFO  [Main] - Login Success
+2018-06-01 14:25:05,097 INFO  [Main] - Login Success
+2018-06-01 14:30:45,853 INFO  [Main] - Login Success
+2018-06-01 14:36:57,601 INFO  [Main] - Login Success
+2018-06-01 14:38:58,709 INFO  [Main] - Login Success
+2018-06-01 14:41:53,119 INFO  [Main] - Login Success
+2018-06-01 14:45:49,970 INFO  [Main] - Login Success
+2018-06-01 14:48:11,383 INFO  [Main] - Login Success
+2018-06-01 14:50:30,496 INFO  [Main] - Login Success
+2018-06-01 14:58:34,899 INFO  [Main] - Login Success
+2018-06-01 15:00:56,766 INFO  [Main] - Login Success
+2018-06-01 15:01:53,782 INFO  [Main] - Login Success
+2018-06-01 15:03:12,765 INFO  [Main] - Login Success
+2018-06-01 15:05:32,491 INFO  [Main] - Login Success
+2018-06-01 15:07:22,211 INFO  [Main] - Login Success
+2018-06-01 15:09:50,317 INFO  [Main] - Login Success
+2018-06-01 15:11:12,434 INFO  [Main] - Login Success
+2018-06-01 15:12:03,338 INFO  [Main] - Login Success
+2018-06-01 15:54:23,802 INFO  [Main] - Login Success
+2018-06-01 15:55:39,943 INFO  [Main] - Login Success
+2018-06-01 15:58:58,507 INFO  [Main] - Login Success
+2018-06-01 16:12:13,664 INFO  [Main] - Login Success
+2018-06-01 16:12:59,874 INFO  [Main] - Login Success
+2018-06-01 16:25:39,148 INFO  [Main] - Login Success
+2018-06-01 16:26:19,264 INFO  [Main] - Login Success
+2018-06-01 16:28:54,171 INFO  [Main] - Login Success
+2018-06-01 16:31:18,872 INFO  [Main] - Login Success
+2018-06-01 17:27:37,044 INFO  [Main] - Login Success
+2018-06-01 17:28:08,194 INFO  [Main] - Login Success
+2018-06-01 17:29:19,854 INFO  [Main] - Login Success
+2018-06-01 17:53:51,683 INFO  [Main] - Login Success
+2018-06-05 11:25:27,155 INFO  [Main] - Login Success
+2018-06-05 11:30:49,188 INFO  [Main] - Login Success
+2018-06-05 17:30:39,979 INFO  [Main] - Login Success
+2018-06-05 17:30:48,415 ERROR [Main] - Error
+System.ArgumentException: Column 'SysteValue' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Presentation.Forms.Process.FrmACS330_ProcessTransferData.GetConfig() in D:\LUBE\01.Presentation\Forms\Process\FrmACS330_ProcessTransferData.cs:line 84
+2018-06-05 17:31:08,413 INFO  [Main] - Login Success
+2018-06-06 11:12:03,641 INFO  [Main] - Login Success
+2018-06-06 11:29:28,953 INFO  [Main] - Login Success
+2018-06-06 11:30:04,839 INFO  [Main] - Login Success
+2018-06-06 11:31:05,735 INFO  [Main] - Login Success
+2018-06-06 11:50:44,473 INFO  [Main] - Login Success
+2018-06-06 12:02:28,061 INFO  [Main] - Login Success
+2018-06-06 15:05:01,920 INFO  [Main] - Login Success
+2018-06-06 15:36:08,992 INFO  [Main] - Login Success
+2018-06-06 15:55:22,016 INFO  [Main] - Login Success
+2018-06-06 16:17:05,827 INFO  [Main] - Login Success
+2018-06-07 17:11:37,693 INFO  [Main] - Login Success
+2018-06-13 10:40:58,545 INFO  [Main] - Login Success
+2018-06-13 12:24:50,900 INFO  [Main] - Login Success
+2018-06-13 12:25:19,326 INFO  [Main] - Login Success
+2018-06-14 11:03:50,828 INFO  [Main] - Login Success
+2018-06-14 13:46:29,552 INFO  [Main] - Login Success
+2018-06-14 13:54:18,673 INFO  [Main] - Login Success
+2018-06-14 13:58:58,959 INFO  [Main] - Login Success
+2018-06-14 14:03:29,749 INFO  [Main] - Login Success
+2018-06-14 14:16:00,540 INFO  [Main] - Login Success
+2018-06-14 14:21:31,331 INFO  [Main] - Login Success
+2018-06-14 14:23:34,802 INFO  [Main] - Login Success
+2018-06-14 14:25:31,419 INFO  [Main] - Login Success
+2018-06-14 14:26:35,561 INFO  [Main] - Login Success
+2018-06-14 15:03:42,678 INFO  [Main] - Login Success
+2018-06-15 10:52:07,954 INFO  [Main] - Login Success
+2018-06-15 11:03:22,274 INFO  [Main] - Login Success
+2018-06-15 11:10:19,926 INFO  [Main] - Login Success
+2018-06-15 11:11:51,597 INFO  [Main] - Login Success
+2018-06-15 11:23:03,516 INFO  [Main] - Login Success
+2018-06-15 11:24:55,413 INFO  [Main] - Login Success
+2018-06-15 11:29:17,213 INFO  [Main] - Login Success
+2018-06-15 11:48:29,912 INFO  [Main] - Login Success
+2018-06-15 11:53:34,169 INFO  [Main] - Login Success
+2018-06-15 11:55:01,371 INFO  [Main] - Login Success
+2018-06-15 11:56:41,401 INFO  [Main] - Login Success
+2018-06-15 14:30:15,047 INFO  [Main] - Login Success
+2018-06-15 14:43:18,138 INFO  [Main] - Login Success
+2018-06-15 14:47:14,796 INFO  [Main] - Login Success
+2018-06-15 14:52:21,946 INFO  [Main] - Login Success
+2018-06-15 15:25:10,525 INFO  [Main] - Login Success
+2018-06-15 15:27:22,699 INFO  [Main] - Login Success
+2018-06-15 15:28:25,556 INFO  [Main] - Login Success
+2018-06-15 15:28:53,240 INFO  [Main] - Login Success
+2018-06-15 15:29:28,585 INFO  [Main] - Login Success
+2018-06-15 15:31:06,150 INFO  [Main] - Login Success
+2018-06-15 15:39:00,933 INFO  [Main] - Login Success
+2018-06-15 15:40:24,681 INFO  [Main] - Login Success
+2018-06-15 15:41:54,560 INFO  [Main] - Login Success
+2018-06-15 15:43:08,505 INFO  [Main] - Login Success
+2018-06-15 15:52:09,935 INFO  [Main] - Login Success
+2018-06-15 16:04:52,255 INFO  [Main] - Login Success
+2018-06-15 16:05:22,683 INFO  [Main] - Login Success
+2018-06-15 16:05:52,595 ERROR [Main] - Error
+System.IO.IOException: The process cannot access the file 'C:\Users\pachara.CSIGROUPS\Desktop\CostOfGoodsManufacturedReport_5_2018.xlsx' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile)
+   at Presentation.Forms.Process.FrmACS350_ProcessInventoryRevolutionImport.import() in D:\LUBE\01.Presentation\Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.cs:line 94
+2018-06-18 10:33:25,792 INFO  [Main] - Login Success
+2018-06-18 10:56:36,623 INFO  [Main] - Login Success
+2018-06-18 11:43:17,424 INFO  [Main] - Login Success
+2018-06-18 11:44:32,967 INFO  [Main] - Login Success
+2018-06-18 11:49:59,124 INFO  [Main] - Login Success
+2018-06-18 11:51:43,076 INFO  [Main] - Login Success
+2018-06-18 12:10:14,780 INFO  [Main] - Login Success
+2018-06-18 14:56:05,206 INFO  [Main] - Login Success
+2018-06-18 14:56:24,170 ERROR [Main] - Error
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 435
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS350_Insert_InventoryRevaluation_Imp(Database db, ACS350_ImportData DataImport) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 520
+   at BusinessService.ACS350_ProcessBIZ.InsertInventoryRevalution_Imp(ACS350_ImportData DataImport) in D:\LUBE\02.BusinessService\Process\ACS350_ProcessBIZ.cs:line 37
+   at Presentation.Forms.Process.FrmACS350_ProcessInventoryRevolutionImport.importData() in D:\LUBE\01.Presentation\Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.cs:line 184
+2018-06-18 15:00:25,724 INFO  [Main] - Login Success
+2018-06-18 15:01:29,876 INFO  [Main] - Login Success
+2018-06-18 15:02:18,653 INFO  [Main] - Login Success
+2018-06-18 15:04:26,917 INFO  [Main] - Login Success
+2018-06-18 15:19:38,962 INFO  [Main] - Login Success
+2018-06-18 15:30:05,294 INFO  [Main] - Login Success
+2018-06-18 15:30:37,711 INFO  [Main] - Login Success
+2018-06-18 15:35:19,581 INFO  [Main] - Login Success
+2018-06-18 15:58:59,085 INFO  [Main] - Login Success
+2018-06-18 16:07:28,935 INFO  [Main] - Login Success
+2018-06-18 16:09:54,419 INFO  [Main] - Login Success
+2018-06-18 16:10:35,707 INFO  [Main] - Login Success
+2018-06-18 16:11:55,932 INFO  [Main] - Login Success
+2018-06-18 16:19:18,706 INFO  [Main] - Login Success
+2018-06-18 16:19:57,606 INFO  [Main] - Login Success
+2018-06-18 16:21:19,772 INFO  [Main] - Login Success
+2018-06-18 16:21:51,843 INFO  [Main] - Login Success
+2018-06-18 16:25:37,854 INFO  [Main] - Login Success
+2018-06-18 16:28:24,262 INFO  [Main] - Login Success
+2018-06-18 16:30:34,930 INFO  [Main] - Login Success
+2018-06-18 16:32:26,703 INFO  [Main] - Login Success
+2018-06-18 16:35:32,002 INFO  [Main] - Login Success
+2018-06-18 17:46:05,022 INFO  [Main] - Login Success
+2018-06-19 10:41:39,536 INFO  [Main] - Login Success
+2018-06-19 11:16:06,826 INFO  [Main] - Login Success
+2018-06-19 11:17:53,394 ERROR [Main] - Error
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 435
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS350_Insert_InventoryRevaluation_Imp(Database db, ACS350_ImportData DataImport) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 520
+   at BusinessService.ACS350_ProcessBIZ.InsertInventoryRevalution_Imp(ACS350_ImportData DataImport) in D:\LUBE\02.BusinessService\Process\ACS350_ProcessBIZ.cs:line 37
+   at Presentation.Forms.Process.FrmACS350_ProcessInventoryRevolutionImport.importData() in D:\LUBE\01.Presentation\Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.cs:line 189
+2018-06-19 11:21:21,185 ERROR [Main] - Error
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at EAP.Framework.Data.SqlData.ReException(Exception ex) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 435
+   at EAP.Framework.Data.SqlData.ExecuteNonQuery(DataRequest Request) in D:\LUBE\00.Framework\EAP.Framework.Data\DatabaseEngine\SqlDatabase.cs:line 190
+   at DataAccess.StoreProcedure.sp_ACS350_Insert_InventoryRevaluation_Imp(Database db, ACS350_ImportData DataImport) in D:\LUBE\03.Data\DataAccess\StoreProcedure_Process.cs:line 520
+   at BusinessService.ACS350_ProcessBIZ.InsertInventoryRevalution_Imp(ACS350_ImportData DataImport) in D:\LUBE\02.BusinessService\Process\ACS350_ProcessBIZ.cs:line 37
+   at Presentation.Forms.Process.FrmACS350_ProcessInventoryRevolutionImport.importData() in D:\LUBE\01.Presentation\Forms\Process\FrmACS350_ProcessInventoryRevolutionImport.cs:line 189
+2018-06-19 11:22:33,416 INFO  [Main] - Login Success
+2018-06-19 11:28:12,219 INFO  [Main] - Login Success
+2018-06-19 11:30:43,264 INFO  [Main] - Login Success
+2018-06-20 11:46:24,118 INFO  [Main] - Login Success
+2018-06-20 11:50:53,104 INFO  [Main] - Login Success
+2018-06-20 15:06:57,961 INFO  [Main] - Login Success
+2018-06-20 15:10:07,132 INFO  [Main] - Login Success
+2018-06-20 15:11:47,486 INFO  [Main] - Login Success
+2018-06-20 15:15:24,730 INFO  [Main] - Login Success
+2018-06-20 15:16:54,881 INFO  [Main] - Login Success
+2018-06-20 15:19:31,253 INFO  [Main] - Login Success
+2018-06-20 15:22:23,271 INFO  [Main] - Login Success
+2018-06-20 15:23:23,621 INFO  [Main] - Login Success
+2018-06-20 15:25:07,585 INFO  [Main] - Login Success
+2018-06-20 15:30:39,767 INFO  [Main] - Login Success
+2018-06-20 16:02:05,919 INFO  [Main] - Login Success
+2018-06-20 16:05:02,008 INFO  [Main] - Login Success
+2018-06-20 16:08:21,283 INFO  [Main] - Login Success
+2018-06-20 16:09:36,723 INFO  [Main] - Login Success
+2018-06-20 16:12:20,411 INFO  [Main] - Login Success
+2018-06-20 16:18:38,534 INFO  [Main] - Login Success
+2018-06-20 16:48:29,425 INFO  [Main] - Login Success
+2018-06-21 11:42:41,463 INFO  [Main] - Login Success
+2018-06-21 13:23:38,383 INFO  [Main] - Login Success
+2018-06-22 11:14:57,305 INFO  [Main] - Login Success
+2018-06-22 11:24:02,477 INFO  [Main] - Login Success
+2018-06-22 11:39:06,744 INFO  [Main] - Login Success
+2018-06-22 11:40:10,541 INFO  [Main] - Login Success
+2018-06-22 11:52:42,175 INFO  [Main] - Login Success
+2018-06-22 11:54:59,752 INFO  [Main] - Login Success
+2018-06-22 11:58:36,554 INFO  [Main] - Login Success
+2018-06-22 12:02:16,909 INFO  [Main] - Login Success
+2018-06-22 13:01:38,860 INFO  [Main] - Login Success
+2018-06-22 13:03:35,540 INFO  [Main] - Login Success
+2018-06-22 13:07:15,471 INFO  [Main] - Login Success
+2018-06-22 13:11:37,343 INFO  [Main] - Login Success
+2018-06-22 13:13:21,153 INFO  [Main] - Login Success
+2018-06-22 13:19:48,813 INFO  [Main] - Login Success
+2018-06-22 13:24:56,919 INFO  [Main] - Login Success
+2018-06-22 13:26:19,047 INFO  [Main] - Login Success
+2018-06-22 13:28:07,254 INFO  [Main] - Login Success
+2018-06-22 13:28:37,443 ERROR [Main] - Error
+System.InvalidOperationException: Error saving file C:\Users\pachara.CSIGROUPS\Desktop\ACS_Costing_FG_201805.xlsx ---> System.Exception: Error overwriting file C:\Users\pachara.CSIGROUPS\Desktop\ACS_Costing_FG_201805.xlsx ---> System.IO.IOException: The process cannot access the file 'C:\Users\pachara.CSIGROUPS\Desktop\ACS_Costing_FG_201805.xlsx' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at OfficeOpenXml.ExcelPackage.Save()
+   --- End of inner exception stack trace ---
+   at OfficeOpenXml.ExcelPackage.Save()
+   --- End of inner exception stack trace ---
+   at OfficeOpenXml.ExcelPackage.Save()
+   at OfficeOpenXml.ExcelPackage.SaveAs(FileInfo file)
+   at Presentation.Forms.Report.FrmRPT030_CostofGoodsManufacturedReport.btnPrintPreview_Click(Object sender, EventArgs e) in D:\LUBE\01.Presentation\Forms\Report\FrmRPT030_CostofGoodsManufacturedReport.cs:line 225
+2018-06-22 13:29:36,643 INFO  [Main] - Login Success
+2018-06-22 13:31:42,456 INFO  [Main] - Login Success
+2018-06-22 16:41:45,154 INFO  [Main] - Login Success
+2018-06-25 14:45:36,114 INFO  [Main] - Login Success
+2018-06-25 14:50:11,689 INFO  [Main] - Login Success
+2018-06-25 14:51:10,139 INFO  [Main] - Login Success
+2018-06-25 14:52:03,598 INFO  [Main] - Login Success
+2018-06-25 15:07:26,189 INFO  [Main] - Login Success
+2018-06-25 15:09:33,518 INFO  [Main] - Login Success
+2018-06-26 11:43:15,326 INFO  [Main] - Login Success
+2018-06-26 11:48:59,628 INFO  [Main] - Login Success
+2018-06-26 14:41:47,947 INFO  [Main] - Login Success
+2018-06-26 17:35:51,529 INFO  [Main] - Login Success
+2018-06-26 18:08:17,529 INFO  [Main] - Login Success
+2018-06-27 10:38:17,908 INFO  [Main] - Login Success
+2018-06-27 10:43:16,827 INFO  [Main] - Login Success
+2018-06-27 10:44:03,596 INFO  [Main] - Login Success
+2018-06-27 10:48:30,467 INFO  [Main] - Login Success
+2018-06-27 10:52:43,175 INFO  [Main] - Login Success
+2018-06-27 10:53:34,139 INFO  [Main] - Login Success
+2018-06-27 10:55:49,149 INFO  [Main] - Login Success
+2018-06-27 10:56:45,105 INFO  [Main] - Login Success
+2018-06-27 11:22:10,918 INFO  [Main] - Login Success
+2018-06-27 11:49:16,008 INFO  [Main] - Login Success
+2018-06-27 11:58:19,839 INFO  [Main] - Login Success
+2018-06-27 12:00:23,050 INFO  [Main] - Login Success
+2018-06-27 13:10:31,813 INFO  [Main] - Login Success
+2018-06-27 13:12:37,606 INFO  [Main] - Login Success
+2018-06-27 13:14:56,477 INFO  [Main] - Login Success
+2018-06-27 13:17:51,553 INFO  [Main] - Login Success
+2018-06-27 14:07:18,306 INFO  [Main] - Login Success
+2018-06-27 14:09:53,700 INFO  [Main] - Login Success
+2018-06-27 14:10:53,184 INFO  [Main] - Login Success
+2018-06-27 14:14:25,856 INFO  [Main] - Login Success
+2018-06-27 14:16:17,334 INFO  [Main] - Login Success
+2018-06-27 14:19:00,220 INFO  [Main] - Login Success
+2018-06-27 14:26:08,661 INFO  [Main] - Login Success
+2018-06-27 14:29:03,809 INFO  [Main] - Login Success
+2018-06-27 15:34:16,547 INFO  [Main] - Login Success
